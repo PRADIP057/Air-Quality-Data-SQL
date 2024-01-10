@@ -29,7 +29,7 @@ The repository includes an SQL script [Air_Quality_dataset_insights.sql](https:/
 
 ## Usage
 
-1. Download the [air_quality_data.csv](link_to_your_file_on_kaggle) file from Kaggle and place it in the root directory of this repository.
+1. Download the [air_quality_data.csv](https://www.kaggle.com/datasets/brpuneet898/latest-air-quality-index-analysis/download?datasetVersionNumber=1) file from Kaggle and place it in the root directory of this repository.
 2. Import the SQL script [Air_Quality_dataset_insights.sql](https://github.com/PRADIP057/Air-Quality-Data-SQL/blob/main/Air_Quality_dataset_insights.sql)  your preferred SQL database management system.
 3. Run the script to perform the analysis on the provided air quality dataset.
 
