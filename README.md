@@ -1,6 +1,6 @@
 # Air Quality Index Analysis
 
-This repository contains a dataset and an SQL script for the analysis of air quality data obtained from Kaggle. The dataset includes information about air quality indexes at 11 PM on December 26, 2023, for various stations in a specific country.
+This repository contains a dataset and an SQL script for the analysis of air quality data obtained from Kaggle. The dataset includes information about air quality indexes at 11 PM on December 26, 2023, for various stations in a India.
 
 ## Dataset Information
 
