@@ -25,12 +25,12 @@ This repository contains a dataset and an SQL script for the analysis of air qua
 
 ## SQL Script
 
-The repository includes an SQL script ([air_quality_analysis.sql](link_to_your_sql_script)) designed to perform insightful analysis on the provided air quality dataset. The script covers a range of complex questions and aims to extract valuable information from the data.
+The repository includes an SQL script [Air_Quality_dataset_insights.sql](https://github.com/PRADIP057/Air-Quality-Data-SQL/blob/main/Air_Quality_dataset_insights.sql) designed to perform insightful analysis on the provided air quality dataset. The script covers a range of complex questions and aims to extract valuable information from the data.
 
 ## Usage
 
 1. Download the [air_quality_data.csv](link_to_your_file_on_kaggle) file from Kaggle and place it in the root directory of this repository.
-2. Import the SQL script ([air_quality_analysis.sql](link_to_your_sql_script)) into your preferred SQL database management system.
+2. Import the SQL script [Air_Quality_dataset_insights.sql](https://github.com/PRADIP057/Air-Quality-Data-SQL/blob/main/Air_Quality_dataset_insights.sql)  your preferred SQL database management system.
 3. Run the script to perform the analysis on the provided air quality dataset.
 
 Feel free to modify and adapt the SQL script based on your specific requirements and database setup.
@@ -42,7 +42,6 @@ The dataset and SQL script are provided under the terms specified by Kaggle. Ref
 ## Acknowledgements
 
 - Dataset Source: Kaggle
-- Contributors: [Author Name(s) from Kaggle]
 
 If you find this repository helpful or use the provided dataset or SQL script in your work, consider giving credit to Kaggle and the dataset contributors.
 
